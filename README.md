@@ -4,7 +4,8 @@ Here are examples of data cleaning this is an essential part of data science as 
 
 ### WHy is data cleaning so important?
 
-
+Data cleaning allows us to assess the data integrity and validity of the data set that we are using. It is important to understand how the data was capture when determine what is bad data. The most common examples of data cleaning is removing empty values and being able to intepret what is supposed to be empty and actual empty values.
+One other example is understanding the outliners of data and how can we determind what is an anomalie.
 
 
 ### Getting to know you data 
